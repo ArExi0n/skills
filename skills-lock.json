@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "hypothesis-generation": {
+      "source": "K-Dense-AI/scientific-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/hypothesis-generation/SKILL.md",
+      "computedHash": "96f315a3de9973ac3acf0d03c368e77b623167443ab2f96ed08f550bfbe7ea85"
+    }
+  }
+}
